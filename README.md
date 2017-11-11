@@ -17,6 +17,7 @@ Hack FaaSter: Leveraging Docker and OpenFaaS for fun and offensive efficiency.
 ## About Me
 
 * [Glenn 'devalias' Grant](http://devalias.net/) ([@_devalias](https://twitter.com/_devalias))
+    * [LinkedIn](https://www.linkedin.com/in/glenn-devalias-grant/)
 
 ## Talks
 
