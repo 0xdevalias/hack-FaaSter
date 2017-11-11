@@ -12,7 +12,11 @@ Hack FaaSter: Leveraging Docker and OpenFaaS for fun and offensive efficiency.
     * [For Mac](https://www.docker.com/docker-mac)
     * [For Windows](https://www.docker.com/docker-windows)
 * [OpenFaaS](https://www.openfaas.com/) ([GitHub](https://github.com/openfaas/faas))
+	* [Docs](https://github.com/openfaas/faas/tree/master/docs)
+	* [Guides](https://github.com/openfaas/faas/tree/master/guide)
+	* [Community](https://github.com/openfaas/faas/blob/master/community.md) (events, blogs, awards, integrations, projects, etc)
 * [OpenFaaS CLI](https://github.com/openfaas/faas-cli)
+* [0xdevalias/faas-gobuster](https://github.com/0xdevalias/faas-gobuster) ([DockerHub](https://hub.docker.com/r/devalias/faas-gobuster/))
 
 ## About Me
 
