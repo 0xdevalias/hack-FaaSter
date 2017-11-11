@@ -216,7 +216,8 @@ echo "https://www.youtube.com/watch?v=BBJa32lCaaY" | faas-cli invoke youtubedl |
 ## Gobuster
 
 * Turning the focus to more security-relevant tools, we can also run gobuster as a function
-    * https://raw.githubusercontent.com/0xdevalias/faas-gobuster/
+    * https://github.com/0xdevalias/faas-gobuster/
+* Gobuster is a "Directory/file & DNS busting tool written in Go", that may be used during the discovery phase of an engagement, to find previously unknown files and subdomains.
 
 ```
 faas-cli deploy -f https://raw.githubusercontent.com/0xdevalias/faas-gobuster/master/stack.yml
