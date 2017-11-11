@@ -1,6 +1,6 @@
 # hack-FaaSter
 
-Hack FaaSter: Leveraging Docker and OpenFaaS for fun and offensive profit.
+Hack FaaSter: Leveraging Docker and OpenFaaS for fun and offensive (security) profit.
 
 ## Workshop
 
