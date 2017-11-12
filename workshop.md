@@ -187,7 +187,7 @@ faas-cli deploy -f https://raw.githubusercontent.com/faas-and-furious/openfaas-m
 echo '{"top": "HACK", "bottom": "FAASTER!", "image": "https://i.ytimg.com/vi/u3CKgkyc7Qo/hqdefault.jpg"}' | faas-cli invoke mememachine > meme.jpg
 
 # Youtube Download + Gif Maker (might be slow..)
-faas-cli deploy -f https://raw.githubusercontent.com/0xdevalias/faas-youtube-dl/modernize-mystack/stack.yml
+faas-cli deploy -f https://raw.githubusercontent.com/faas-and-furious/youtube-dl/master/stack.yml
 faas-cli deploy -f https://raw.githubusercontent.com/openfaas/faas/master/sample-functions/samples.yml --filter "*gif*"
 
 echo "https://www.youtube.com/watch?v=BBJa32lCaaY" | faas-cli invoke youtubedl | faas-cli invoke gif-maker > ra.gif
