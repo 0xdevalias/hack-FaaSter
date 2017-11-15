@@ -16,6 +16,13 @@ If you want to learn more about Docker itself, check out the [Play with Docker C
     * A new instance should be created and return a linux shell for you
 * Sometimes it seems to randomly not work.. close the session and try again
 
+## If you want to install Docker locally..
+
+* [macOS](https://docs.docker.com/docker-for-mac/install/)
+* [Windows](https://docs.docker.com/docker-for-windows/install/)
+* [Docker Toolbox](https://www.docker.com/products/docker-toolbox)
+* [Kali Linux](https://www.ptrace-security.com/2017/06/14/how-to-install-docker-on-kali-linux-2017-1/)
+
 ## Setup Docker Swarm
 
 * https://docs.docker.com/engine/swarm/
