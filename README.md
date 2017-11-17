@@ -27,7 +27,7 @@ Hack FaaSter: Leveraging Docker and OpenFaaS for fun and offensive (security) pr
 
 * [SecTalks Canberra](http://www.sectalks.org/canberra/) ([November 14th, 2017; Canberra, Australia](https://www.meetup.com/SecTalks-Canberra/events/241579721/))
     * "Hack FaaSter: Leveraging Docker and OpenFaaS for fun and offensive efficiency."
-    * [Slides](20171114%20-%20Hack%20FaaSter%20-%20SecTalks%20Canberra.pdf)
+    * Slides: [PDF](20171114%20-%20Hack%20FaaSter%20-%20SecTalks%20Canberra.pdf), [SlideShare](https://www.slideshare.net/GlenndevaliasGrant/hack-faaster-sectalks-canberra-20171114)
 * [CSides Canberra](http://www.bsidesau.com.au/csides.html) (November 17th, 2017; Canberra, Australia)
     * "Gophers, whales and.. clouds? Oh my!" v0.2-prewlg-alpha
 * [BSides Wellington 2017](https://www.bsides.nz/) (November 23-24th, 2017; Wellington, New Zealand)
